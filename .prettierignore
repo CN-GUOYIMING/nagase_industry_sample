@@ -1,0 +1,5 @@
+# コーディングフォーマットから除外するフォルダーとファイル
+**/node_modules/**
+**/.circleci/**
+**/tsconfig.json
+**/package-lock.json

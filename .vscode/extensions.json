@@ -1,0 +1,7 @@
+{
+  "recommendations": [
+    "johnsoncodehk.volar",
+    // prettier: VSCode コーディングフォーマット拡張
+    "esbenp.prettier-vscode"
+  ]
+}

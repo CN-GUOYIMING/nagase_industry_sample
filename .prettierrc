@@ -1,0 +1,13 @@
+{
+  "printWidth": 80,
+  "tabWitdth": 2,
+  "useTabs": false,
+  "semi": false,
+  "singleQuote": true,
+  "#bracketSpacing": "{}括弧内首尾の空白",
+  "bracketSpacing": true,
+  "#trailingComma": "語尾のカンマ",
+  "trailingComma": "es5",
+  "#arrowParens": "アロー関数の引数が一つのみの際の()括弧",
+  "arrowParens": "always"
+}
